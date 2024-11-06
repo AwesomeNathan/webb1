@@ -1,0 +1,27 @@
+.header {
+    background-color: aqua;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.content {
+    margin: 15px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+.footer {
+    background-color: rgb(85, 204, 61);
+    color: rgb(94, 54, 54);
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+h1:hover{
+    color:red;
+}
